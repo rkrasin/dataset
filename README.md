@@ -16,11 +16,11 @@ The images are listed as having a [CC BY 2.0](https://creativecommons.org/licens
 
 ## Download the data
 
-* [Image URLs and metadata](https://storage.googleapis.com/openimages/2017_07/images_2017_07.tar.gz) (990 MB)
-* [Bounding box annotations (train, validation, and test sets)](https://storage.googleapis.com/openimages/2017_07/annotations_human_bbox_2017_07.tar.gz) (37 MB)
-* [Image-level annotations (train, validation, and test sets)](https://storage.googleapis.com/openimages/2017_07/annotations_human_2017_07.tar.gz) (66 MB)
-* [Machine-populated image-level annotations (train, validation, and test sets)](https://storage.googleapis.com/openimages/2017_07/annotations_machine_2017_07.tar.gz) (447 MB)
-* [Classes and class descriptions](https://storage.googleapis.com/openimages/2017_07/classes_2017_07.tar.gz) (293 KB)
+* [Image URLs and metadata](https://storage.googleapis.com/openimages/2017_07/images_2017_07.tar.gz) (990 MB, SHA1: e12e364e5aa44bd40dcdb78c54a7d8ed5c45f0ee)
+* [Bounding box annotations (train, validation, and test sets)](https://storage.googleapis.com/openimages/2017_07/annotations_human_bbox_2017_07.tar.gz) (37 MB, SHA1: 31c7c72c5ac3c4c2f4becab0b4cfd5d5d5de7a3f)
+* [Image-level annotations (train, validation, and test sets)](https://storage.googleapis.com/openimages/2017_07/annotations_human_2017_07.tar.gz) (66 MB, SHA1: 5827193489d42635e5a78b467c4dede3ff066df3)
+* [Machine-populated image-level annotations (train, validation, and test sets)](https://storage.googleapis.com/openimages/2017_07/annotations_machine_2017_07.tar.gz) (447 MB, SHA1: 511f006422c84984beb57578594e4b57c75a0b1b)
+* [Classes and class descriptions](https://storage.googleapis.com/openimages/2017_07/classes_2017_07.tar.gz) (293 KB, SHA1: 71ba8dd692ec3538543f45fdb2b88f6be59c096a)
 
 See also how to [import the annotations into PostgreSQL](https://github.com/openimages/dataset/wiki/Importing-into-PostgreSQL).
 
